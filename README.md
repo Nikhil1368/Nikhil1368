@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-bhardwaj-a2b844231?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpywbs11lrl%2bxkmid%2fx8twg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-bhardwaj-a2b844231?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpywbs11lrl%2bxkmid%2fx8twg%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-bhardwaj-a2b844231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEOelZbUBSZiHKoFa240H5Q%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-bhardwaj-a2b844231?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpywbs11lrl%2bxkmid%2fx8twg%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
